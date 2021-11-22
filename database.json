@@ -1,0 +1,270 @@
+{
+"chargers":[
+        {
+        "id": "RC18115",
+        "power": 1.5,
+        "owned": false,
+        "ports_count": 1,
+        "wanted": false
+        },
+        {
+        "id": "RC18120",
+        "power": 2.0,
+        "owned": true,
+        "ports_count": 1,
+        "wanted": false
+        },
+        {
+        "id": "RC18627",
+        "power": 2.7,
+        "owned": false,
+        "ports_count": 6,
+        "wanted": true
+        }
+    ],
+"batteries":[
+        {
+        "id": "RB18L90",
+        "capacity": 9.0,
+        "owned": false,
+        "high_power": false,
+        "high_energy": true,
+        "wanted": false
+        },
+        {
+        "id": "RB18L50",
+        "capacity": 5.0,
+        "owned": false,
+        "high_power": false,
+        "high_energy": false,
+        "wanted": false
+        },
+        {
+        "id": "RB18L40",
+        "capacity": 4.0,
+        "owned": true,
+        "high_power": false,
+        "high_energy": false,
+        "wanted": false
+        },
+        {
+        "id": "RB18L20",
+        "capacity": 2.0,
+        "owned": true,
+        "high_power": false,
+        "high_energy": false,
+        "wanted": true
+        },
+        {
+        "id": "RB1840X",
+        "capacity": 4.0,
+        "owned": false,
+        "high_power": true,
+        "high_energy": false,
+        "wanted": true
+        },
+        {
+        "id": "RB1850X",
+        "capacity": 5.0,
+        "owned": false,
+        "high_power": true,
+        "high_energy": false,
+        "wanted": true
+        }
+    ],
+
+"tools":[
+        {
+        "id": "test",
+        "use": "drilling/driving",
+        "brushless": false,
+        "owned": false,
+        "high_power": false,
+        "wanted": false
+        },
+        {
+        "id": "R18PD3",
+        "use": "drilling/driving",
+        "brushless": false,
+        "owned": true,
+        "high_power": false,
+        "wanted": false
+        },
+        {
+        "id": "R18SDS",
+        "use": "drilling/driving",
+        "brushless": false,
+        "owned": false,
+        "high_power": false,
+        "wanted": true
+        },
+        {
+        "id": "R18IW3",
+        "use": "drilling/driving",
+        "brushless": false,
+        "owned": true,
+        "high_power": false,
+        "wanted": false
+        },
+        {
+        "id": "RPD18C",
+        "use": "drilling/driving",
+        "brushless": true,
+        "owned": false,
+        "high_power": true,
+        "wanted": true
+        },
+        {
+        "id": "RIW18X",
+        "use": "drilling/driving",
+        "brushless": true,
+        "owned": false,
+        "high_power": true,
+        "wanted": true
+        },
+        {
+        "id": "R18JS",
+        "use": "sawing",
+        "brushless": false,
+        "owned": true,
+        "high_power": false,
+        "wanted": false
+        },
+        {
+        "id": "EMS190DCL",
+        "use": "sawing",
+        "brushless": false,
+        "owned": false,
+        "high_power": false,
+        "wanted": true
+        },
+        {
+        "id": "R18RS7",
+        "use": "sawing",
+        "brushless": true,
+        "owned": false,
+        "high_power": false,
+        "wanted": true
+        },
+        {
+        "id": "R18CSP",
+        "use": "sawing",
+        "brushless": false,
+        "owned": false,
+        "high_power": false,
+        "wanted": false
+        },
+        {
+        "id": "RWSL180M",
+        "use": "sawing",
+        "brushless": false,
+        "owned": false,
+        "high_power": false,
+        "wanted": false
+        },
+        {
+        "id": "RCS18X",
+        "use": "sawing",
+        "brushless": true,
+        "owned": false,
+        "high_power": true,
+        "wanted": true
+        },
+        {
+        "id": "R18CS7",
+        "use": "sawing",
+        "brushless": true,
+        "owned": false,
+        "high_power": false,
+        "wanted": true
+        },
+        {
+        "id": "R18AG",
+        "use": "speciality",
+        "brushless": false,
+        "owned": true,
+        "high_power": false,
+        "wanted": false
+        },
+        {
+        "id": "R18AG7",
+        "use": "speciality",
+        "brushless": true,
+        "owned": false,
+        "high_power": false,
+        "wanted": false
+        },
+        {
+        "id": "RAG18X",
+        "use": "speciality",
+        "brushless": true,
+        "owned": false,
+        "high_power": true,
+        "wanted": true
+        },
+        {
+        "id": "R18ROS",
+        "use": "sanding",
+        "brushless": false,
+        "owned": false,
+        "high_power": false,
+        "wanted": true
+        },
+        {
+        "id": "R18PS",
+        "use": "sanding",
+        "brushless": false,
+        "owned": false,
+        "high_power": false,
+        "wanted": true
+        },
+        {
+        "id": "R18RT",
+        "use": "crafting",
+        "brushless": false,
+        "owned": false,
+        "high_power": false,
+        "wanted": true
+        },
+        {
+        "id": "R18GLU",
+        "use": "crafting",
+        "brushless": false,
+        "owned": false,
+        "high_power": false,
+        "wanted": false
+        },
+        {
+        "id": "R18TR",
+        "use": "crafting",
+        "brushless": false,
+        "owned": false,
+        "high_power": false,
+        "wanted": true
+        },
+        {
+        "id": "R18SOI",
+        "use": "crafting",
+        "brushless": false,
+        "owned": false,
+        "high_power": false,
+        "wanted": true
+        },
+        {
+        "id": "R18ALH",
+        "use": "lighting",
+        "brushless": false,
+        "owned": false,
+        "high_power": false,
+        "wanted": true
+        },
+        {
+        "id": "R18ALF",
+        "use": "lighting",
+        "brushless": false,
+        "owned": false,
+        "high_power": false,
+        "wanted": false
+        }
+    ]
+}
